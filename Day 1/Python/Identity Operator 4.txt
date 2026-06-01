@@ -1,0 +1,17 @@
+Identity Operators in Python
+
+is       True if both variables point to same object
+is not   True if both variables point to different objects
+
+Example:
+
+a = [1, 2]
+b = a
+
+a is b
+
+# True
+
+a is not b
+
+# False

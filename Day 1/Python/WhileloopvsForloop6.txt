@@ -1,0 +1,1 @@
+difference between while and forloop

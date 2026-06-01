@@ -1,0 +1,27 @@
+Operator Precedence in Python
+
+Highest
+↓
+
+1. ()      Parentheses
+   ↓
+2. **      Power
+   ↓
+3. *, /    Multiply, Divide
+   ↓
+4. +, -    Add, Subtract
+   ↓
+5. ==      Comparison
+   ↓
+6. and     Logical AND
+   ↓
+7. or      Logical OR
+   ↓
+   Lowest
+
+Example:
+
+2 + 3 * 4
+= 2 + 12
+= 14
+

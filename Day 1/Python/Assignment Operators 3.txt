@@ -1,0 +1,16 @@
+Basic Assignment Operators in Python
+
+=   Assign
+x = 5
+
++=  Add and assign
+x += 2
+
+-=  Subtract and assign
+x -= 2
+
+*=  Multiply and assign
+x *= 2
+
+/=  Divide and assign
+x /= 2
