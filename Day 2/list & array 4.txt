@@ -1,0 +1,2 @@
+1)how list works
+2)why array starts from zero??
