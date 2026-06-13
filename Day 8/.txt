@@ -1,0 +1,6 @@
+real life example of linkedlist,
+
+middle of linkedlist, linkedlist cycle(leetcode 141)
+
+
+

@@ -1,0 +1,12 @@
+https://www.geeksforgeeks.org/dsa/reduce-a-number-to-1-by-performing-given-operations/
+
+Back tracking Base
+------------------
+left - matrix[i][j-1]
+top - matrix[i-1][j]
+bottom - matrix[i+1][j]
+right - matrix[i][j+1]
+
+leetcode 733,200
+
+rat in maze problem (geekfor geeks)
